@@ -1,0 +1,4 @@
+﻿  4.28.cpp
+C:\Users\MAGALY\source\repos\4.28\4.28\4.28.cpp(22,19): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\MAGALY\source\repos\4.28\4.28\4.28.cpp(27,15): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  4.28.vcxproj -> C:\Users\MAGALY\source\repos\4.28\Debug\4.28.exe
