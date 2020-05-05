@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     int inicio;
-    int max=0;
+    int min=0;
     cout << "Ingrese numero: ";
     cin >> inicio;
     for (int i = 0; i < inicio; i++) {
@@ -14,11 +14,11 @@ int main()
         cin >>number;
         cout << endl;
         
-        if (number > max) {
-            max = number;
+        if (number < min) {
+            min = number;
            
         }
-        cout << "El mayor es: " << max << endl;
+        cout << "El menor es: " << min << endl;
 
     }
 }
