@@ -22,6 +22,11 @@ int main()
         eleva++;
         binario = num;
     }
+    
+    if (binario == 1)
+    {
+        add = 1;
+    }
 
     add = add + num * pow(2, eleva);
     cout << "Numero ingresado en decimal: " << add;
