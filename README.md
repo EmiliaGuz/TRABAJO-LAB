@@ -5,10 +5,10 @@
 # 4.28 Decimal equivalent of a binary number
 # 4.30 Fibonacci Sequence
 
-# 5.11 Smallest value
-# 5.15 Triangle-printing program*
+# 5.11 Smallest value*Not correct
+# 5.15 Triangle-printing program
 # 5.19 Calculating the value of pi
-# 5.29 Peter Minuit problem*
+# 5.29 Peter Minuit problem*Not sure compile
 
 # Parte 1:
 # 6.12 Parking charge
@@ -21,5 +21,5 @@
 # Parte 2:
 # 6.36 Recursive exponentiation
 # 6.37 Fibonacci series
-# 6.39 Tower Hanoi
+# 6.39 Tower Hanoi*Follow structure
 # 6.41 Greatest common divisor
